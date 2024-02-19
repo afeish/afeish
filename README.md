@@ -25,10 +25,15 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Angular-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VueJS-VueJS-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Express-express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/NuxtJs-NuxtJs-informational?style=flat&logo=nuxtdotjs&logoColor=white&color=2bbc8a)
+
+
+
 <br>
-![](https://img.shields.io/badge/Php-php-yellow?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![Static Badge](https://img.shields.io/badge/Golang-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+
 <br>
-![](https://img.shields.io/badge/Codeigniter-Codeignither-informational?style=flat&logo=codeigniter&logoColor=white&color=2bbc8a)
+![Static Badge](https://img.shields.io/badge/Gin-Gin-informational?style=flat&logo=gin&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Laravel-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 <br>
 ![](https://img.shields.io/badge/Python-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
