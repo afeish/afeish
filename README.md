@@ -18,7 +18,15 @@ Here are some ideas to get you started:
 
 
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=neocxf&style=flat-square"></h2>
-
+<br>
+![Static Badge](https://img.shields.io/badge/Golang-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+<br>
+![](https://img.shields.io/badge/Gin-Gin-informational?style=flat&logo=gin&logoColor=white&color=2bbc8a)
+![Static Badge](https://img.shields.io/badge/Sqlite-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
+![Static Badge](https://img.shields.io/badge/Prometheus-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=2bbc8a)
+![Static Badge](https://img.shields.io/badge/Grafana-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
+![Static Badge](https://img.shields.io/badge/Jaeger-Jaeger-informational?style=flat&logo=jaeger&logoColor=white&color=2bbc8a)
+<br>
 ![](https://img.shields.io/badge/Javascript-javascript-yellow?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![Static Badge](https://img.shields.io/badge/Typescript-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 <br>
@@ -31,16 +39,7 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/Alipay-Alipay-informational?style=flat&logo=alipay&logoColor=white&color=2bbc8a)
 ![Static Badge](https://img.shields.io/badge/Paypal-Paypal-informational?style=flat&logo=paypal&logoColor=white&color=2bbc8a)
 <br>
-![Static Badge](https://img.shields.io/badge/Golang-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-<br>
-![](https://img.shields.io/badge/Gin-Gin-informational?style=flat&logo=gin&logoColor=white&color=2bbc8a)
-![Static Badge](https://img.shields.io/badge/Sqlite-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
-![Static Badge](https://img.shields.io/badge/Prometheus-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=2bbc8a)
-![Static Badge](https://img.shields.io/badge/Grafana-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
-![Static Badge](https://img.shields.io/badge/Jaeger-Jaeger-informational?style=flat&logo=jaeger&logoColor=white&color=2bbc8a)
-<br>
 ![](https://img.shields.io/badge/Python-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-<br>
 ![](https://img.shields.io/badge/Mysql-Mysql-informational?style=flat&logo=Mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Mongo-mongo-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![Static Badge](https://img.shields.io/badge/Fastapi-Fastapi-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
@@ -71,10 +70,10 @@ Here are some ideas to get you started:
 <p align="justify">I believe I would be an excellent fit for this position since I am a software engineer with a wide variety of experience in the field.</p>
 
 <p align="justify">I tend to view myself as a generalist since I try not to focus on any given technology. 
-My skills range from PHP(CI, Laravel), Node, React, Vue, React-Native, Flutter, Django to Mysql, Postgres, MongoDB, 
+My skills range from Golang(CI, Gin), Java, Node, Vue, FastAPI to Mysql, Postgres, MongoDB, 
 and I have 10+ years of experience. </p>
 
-<p align="justify">As a software engineer, I'm familiar with GitHub, GitLab, etc for version control and Jira and Trello for tasks management.</p>
+<p align="justify">As a software engineer, I'm familiar with GitHub, GitLab, etc for version control and Jira for tasks management.</p>
 
 <p align="justify">Also, I'm familiar with several kinds of testing systems.
 I have been exposed to a wide variety of technologies in my career and consider myself to be very adaptable.</p>
