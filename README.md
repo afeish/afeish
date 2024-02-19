@@ -97,7 +97,7 @@ Sincerely,</p>
 <code><a href="https://www.mysql.com"><img alt="mysql" title="Mysql" src="logos/mysql.png" height="42"></a></code>
 <code><a href="https://www.postgresql.org"><img alt="PostgreSQL" title="PostgreSQL" src="logos/postgres.png" height="42"></a></code>
 <code><a href="https://www.mongodb.com"><img alt="Mongodb" title="Mongodb" src="logos/mongodb.png" height="42"></a></code>
-<code><a href="https://rclone.org/"><img alt="Rclone" title="Rclone" src="logs/rclone.svg" height="42"></a></code>
+<code><a href="https://rclone.org/"><img alt="Rclone" title="Rclone" src="logos/rclone.svg" height="42"></a></code>
 <code><a href="https://kopia.io/"><img alt="Kopia" title="Kopia" src="logos/kopia.svg" height="42"></a></code>
 <code><a href="https://juicefs.com/"><img alt="JuiceFS" title="JuiceFS" src="logos/juicefs.svg" height="42"></a></code>
 <code><a href="https://tikv.org/"><img alt="TIKV" title="TIKV" src="logos/tikv.png" height="42"></a></code>
