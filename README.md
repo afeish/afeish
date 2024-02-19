@@ -97,15 +97,15 @@ Sincerely,</p>
 <code><a href="https://www.mysql.com"><img alt="mysql" title="Mysql" src="logos/mysql.png" height="42"></a></code>
 <code><a href="https://www.postgresql.org"><img alt="PostgreSQL" title="PostgreSQL" src="logos/postgres.png" height="42"></a></code>
 <code><a href="https://www.mongodb.com"><img alt="Mongodb" title="Mongodb" src="logos/mongodb.png" height="42"></a></code>
-<code><a href="https://rclone.org/"><img alt="Rclone" title="Rclone" src="https://rclone.org/img/logo_on_dark__horizontal_color.svg" height="42"></a></code>
+<code><a href="https://rclone.org/"><img alt="Rclone" title="Rclone" src="logs/rclone.svg" height="42"></a></code>
 <code><a href="https://kopia.io/"><img alt="Kopia" title="Kopia" src="logos/kopia.svg" height="42"></a></code>
 <code><a href="https://juicefs.com/"><img alt="JuiceFS" title="JuiceFS" src="logos/juicefs.svg" height="42"></a></code>
-<code><a href="https://tikv.org/"><img alt="TIKV" title="TIKV" src="logos/tikv.svg" height="42"></a></code>
+<code><a href="https://tikv.org/"><img alt="TIKV" title="TIKV" src="logos/tikv.png" height="42"></a></code>
 <code><a href="https://openresty.org/"><img alt="OpenResty" title="OpenResty" src="logos/openresty.svg" height="42"></a></code>
 <code><a href="https://kubernetes.io/"><img alt="Kubernetes" title="Kubernetes" src="logos/kubernetes.svg" height="42"></a></code>
 <code><a href="https://stripe.com/"><img alt="Stripe" title="Stripe" src="logos/stripe.svg" height="42"></a></code>
 <code><a href="https://www.terraform.io/"><img alt="Terraform" title="Terraform" src="logos/terraform.svg" height="42"></a></code>
-<code><a href="https://www.ansible.com/"><img alt="Ansible" title="Ansible" src="logos/ansible.png" height="42"></a></code>
+<code><a href="https://www.ansible.com/"><img alt="Ansible" title="Ansible" src="logos/ansible.svg" height="42"></a></code>
 <code><a href="https://prometheus.io/"><img alt="Prometheus" title="Prometheus" src="logos/prometheus.svg" height="42"></a></code>
 <code><a href="https://grafana.com/"><img alt="Grafana" title="Grafana" src="logos/grafana.svg" height="42"></a></code>
 <!-- <p align="center">
